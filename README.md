@@ -34,7 +34,7 @@ Ekklesia is an intuitive church management platform designed to simplify adminis
 - No limits on number of church services, events, or member records
 
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 - Email: growyourbusiness@grassr.solutions
