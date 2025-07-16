@@ -29,8 +29,8 @@ Ekklesia is an intuitive church management platform designed to simplify adminis
 3. To learn more about the features, open `about.html`
 
 ## Pricing
-- ₱5,799.00 monthly for up to 10 administrative users
-- Additional administrators: ₱580.00 each
+- ₱8,450.00 monthly for up to 5 administrative users
+- Additional administrators: ₱1,690.00 each
 - No limits on number of church services, events, or member records
 
 ## Contact
